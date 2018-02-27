@@ -7,6 +7,6 @@ messier so you have something to clean up!
 The associated images are in the 'images/' subdirectory.
 
 Cleanup plan:
-- get rid of all-caps
+- get rid of all-caps (DONE)
 - standardize dates
 - standardize other stuff
